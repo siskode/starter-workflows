@@ -4,7 +4,7 @@
 
 ## Starter Workflows
 
-Added changes for MR
+Added changes for MR...
 
 These are the workflow files for helping people get started with GitHub Actions.  They're presented whenever you start to create a new GitHub Actions workflow.
 
